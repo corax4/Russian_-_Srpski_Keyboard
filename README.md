@@ -15,7 +15,7 @@
 
 # Установка.
 
-Скачайте и распакуйте zip-архив ["ru_sr"](https://github.com/corax4/English_-_Srpski_Keyboard/files/8542075/us_sr.zip). Запустите Setup.exe и следуйте инструкциям установщика. Перезагрузите Windows.
+Скачайте и распакуйте zip-архив ["ru_sr"](https://github.com/corax4/Russian_-_Srpski_Keyboard/files/8542339/ru_sr.zip). Запустите Setup.exe и следуйте инструкциям установщика. Перезагрузите Windows.
 
 Теперь Вы можете выбрать установленную раскладку:
 
