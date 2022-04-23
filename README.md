@@ -32,3 +32,5 @@
 6. Закройте параметры.
 
 Для латинской раскладки смотрите [English - Srpski Keyboard](https://github.com/corax4/English_-_Srpski_Keyboard).
+
+Или модифицированная раскладка [USA International](https://github.com/corax4/US_Int_Srpski_Keyboard).
